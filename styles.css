@@ -84,6 +84,15 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+
+.tag2 {
+  background-color: skyblue;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  display: table;
+  margin: 30px auto;
+}
 .location {
   background-color: #222;
   color: yellow;
@@ -205,3 +214,20 @@ a.social:hover {
 
 }
 
+.gym {
+  margin-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.king {
+  margin-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
